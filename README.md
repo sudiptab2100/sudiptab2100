@@ -18,11 +18,11 @@
 ## 📫 How to reach me ...
 - Email : sudiptab2100@gmail.com
 
-# My dApp Projects :
-- ERC20 Token
+# 💻 My dApp Projects :
+- ### ERC20 Token
   - Repo : [dapp-token](https://github.com/sudiptab2100/dapp-token)
   - ICO Sale Website : [DApp Token ICO Sale](https://sudiptab2100.github.io/dapp-token/)
-- Decentralised Voting System Prototype
+- ### Decentralised Voting System Prototype
   - Repo : [DeVote](https://github.com/sudiptab2100/DeVote)
   - Voting Website : [Vote For Life](https://sudiptab2100.github.io/DeVote/) 
 

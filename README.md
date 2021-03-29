@@ -2,9 +2,10 @@
 ## 👀 Skills :
 - ### Development Skills 
   - Android Development
-  - Flutter Developmen
-  - Solidity Smart Contract Development
-  - Web3JS Framework
+  - Flutter Development
+  - [Solidity Smart Contract Development](https://docs.soliditylang.org/)
+  - [Web3JS Framework](https://web3js.readthedocs.io/)
+  - [IPFS](https://ipfs.io/)
   - Frontend Developer(HTML, CSS, JS, Bootstrap)
 - ### Programming Languages
   - C

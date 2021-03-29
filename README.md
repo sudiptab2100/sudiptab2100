@@ -14,6 +14,7 @@
   - JS
 ## 🌱 I’m currently learning :
 - Solidity and Web3 Framework
+- IPFS - A Distributed P2P File System
 ## 💞️ I’m looking to collaborate on :
 - Interesting blockchain projects
 
@@ -25,7 +26,7 @@
   - Repo : [DeVote](https://github.com/sudiptab2100/DeVote)
   - Voting Website : [Vote For Life](https://sudiptab2100.github.io/DeVote/) 
 
-## 📫 How to reach me ...
+## 📫 How to reach me :
 - Email : sudiptab2100@gmail.com
 
 <!---

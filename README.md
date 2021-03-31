@@ -25,6 +25,9 @@
 - ### Decentralised Voting System Prototype
   - Repo : [DeVote](https://github.com/sudiptab2100/DeVote)
   - Voting Website : [Vote For Life](https://sudiptab2100.github.io/DeVote/) 
+- ### IPFS Image Uploader
+  - Repo : [IPFSImageUploader](https://github.com/sudiptab2100/IPFSImageUploader)
+  - Implementation Website : [IPFS Image Uploader](https://sudiptab2100.github.io/IPFSImageUploader/) 
 
 ## 📫 How to reach me :
 - Email : sudiptab2100@gmail.com

@@ -1,7 +1,7 @@
 # 👋 Hi, I’m [@sudiptab2100](https://github.com/sudiptab2100)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sudiptab2100&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sudiptab2100&count_private=true&theme=dark&showicons=true&hide_border=true)]()<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/sudiptab2100/github-readme-stats)
 
 ## 👀 Skills :
 - ### Development Skills 

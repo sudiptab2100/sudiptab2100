@@ -1,4 +1,8 @@
 # 👋 Hi, I’m [@sudiptab2100](https://github.com/sudiptab2100)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sudiptab2100&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&langs_count=5&theme=tokyonight)]()
+
 ## 👀 Skills :
 - ### Development Skills 
   - Android Development
@@ -31,6 +35,7 @@
 
 ## 📫 How to reach me :
 - Email : sudiptab2100@gmail.com
+
 
 <!---
 sudiptab2100/sudiptab2100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

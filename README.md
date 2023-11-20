@@ -44,12 +44,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sudiptab2100&show_icons=true&theme=radical" alt=""/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>
-
-## 📫 How to reach me :
-- Email : sudiptab2100@gmail.com
-
-
-<!---
-sudiptab2100/sudiptab2100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

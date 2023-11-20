@@ -14,12 +14,14 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=sudiptab2100&style=flat-square&color=blue" alt=""/>
+  <br>
+  <h1>
+    Hello World! <img src="https://i.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.webp" width="35px"/>
+  </h1>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sudiptab2100&theme=dracula)]()
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark)]()
 </div>
-
-# 👋 Hi, I’m [@sudiptab2100](https://github.com/sudiptab2100)
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sudiptab2100&count_private=true&theme=dark&showicons=true&hide_border=true)](https://github.com/sudiptab2100)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=10&theme=dark&hide_border=true)](https://github.com/sudiptab2100/)
 
 ## 👀 Skills :
 - ### Development Skills 

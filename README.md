@@ -1,3 +1,19 @@
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/JqmupuTVZYaQX5s094/giphy.webp" width="150"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sudiptab2100/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCH2vztl6MT3aPPHVVc6s59g">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/sudipta__basak">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 # 👋 Hi, I’m [@sudiptab2100](https://github.com/sudiptab2100)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=sudiptab2100&count_private=true&theme=dark&showicons=true&hide_border=true)](https://github.com/sudiptab2100)<br/>

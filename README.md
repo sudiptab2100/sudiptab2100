@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sudiptab2100/">
+  <a href="https://www.linkedin.com/in/sudiptab2100/" target=”_blank”>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCH2vztl6MT3aPPHVVc6s59g">
+  <a href="https://www.youtube.com/channel/UCH2vztl6MT3aPPHVVc6s59g" target=”_blank”>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/sudipta__basak">
+  <a href="https://twitter.com/sudipta__basak" target=”_blank”>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

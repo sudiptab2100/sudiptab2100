@@ -40,7 +40,7 @@
 
 ## :fire: My Stats
 <div id="stats" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudiptab2100&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sudiptab2100&theme=dark" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api?username=sudiptab2100&show_icons=true&theme=radical" alt=""/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Top Langs"/>
 </div>

@@ -40,7 +40,13 @@
 
 ## :fire: My Stats
 <div id="stats" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sudiptab2100&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sudiptab2100&show_icons=true&theme=radical" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Top Langs"/>
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=sudiptab2100&theme=radical">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sudiptab2100&theme=radical" alt="GitHub Streak" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=sudiptab2100&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=sudiptab2100&show_icons=true&theme=radical" alt=""/>
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptab2100&layout=compact&langs_count=8&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
 </div>

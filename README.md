@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/sudiptab2100/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/sudipta__basak">
+  <a href="https://x.com/@cyph3r_m0nk">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:sudiptab2100@gmail.com">
